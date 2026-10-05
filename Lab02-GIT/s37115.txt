@@ -1,4 +1,8 @@
 Name: Yusuf
 University: PJATK
 Student id: s37115
+<<<<<<< HEAD
 Hello from the branch
+=======
+Hello from the branch
+>>>>>>> s37115
